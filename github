@@ -1,0 +1,6 @@
+git init  # Initialize Git (if not already done)
+git add .  # Add all files
+git commit -m "Initial commit"  # Commit files
+git branch -M main  # Rename branch to main (optional)
+git remote add origin https://github.com/your-username/your-repository.git  # Link to GitHub
+git push -u origin main  # Push to GitHub
